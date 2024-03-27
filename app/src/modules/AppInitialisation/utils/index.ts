@@ -220,6 +220,14 @@ const defaultApps = [
     about: 'Nostr Nests is an audio space for chatting, brainstorming, debating, jamming, micro-conferences and more.',
     groupName: 'Live'
   },
+  {
+    naddr: 'naddr1...',
+    name: 'Corny Chat',
+    picture: 'https://cornychat.com/img/homepage-header.png',
+    url: 'https://cornychat.com/',
+    about: 'Corny Chat is your place for chatting with friends!',
+    groupName: 'Live'
+  },
 
   // Lists
 
